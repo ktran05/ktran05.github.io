@@ -69,6 +69,7 @@ main {
     border: 0px rgb(8, 8, 8) ridge;
     padding: 10px;
 }
+
 h2, h3 {
     margin: 0px;
 }
@@ -85,11 +86,12 @@ h2, h3 {
 }
 
 #portfolio li {
-    background: rgb(159, 158, 208);
+    background: rgb(37, 77, 164);
     padding: 10px;
     border-radius: 10px;
-    margin-bottom: 10px;
-    margin-left: 70px;
+    margin-bottom: -10px;
+    margin-left: 20px;
+    font-size: 25px;
 }
 
 #portfolio li:hover {
